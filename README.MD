@@ -1,5 +1,5 @@
 # Blood Vessel Segmentation
-This is a computer vision project focused on blood vessel segmentation in medical images using a U-Net architecture trained with TensorFlow/Keras in Python, and later converted to TensorFlow Lite for efficient inference in a C++ application.
+This is a **computer vision project** focused on blood vessel segmentation in medical images using a U-Net architecture trained with TensorFlow/Keras in Python, and later converted to TensorFlow Lite for efficient inference in a C++ application.
 
 The goal is to build a complete and optimized pipeline, from data preprocessing to embedded inference using TFLite.
 
